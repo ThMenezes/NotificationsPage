@@ -27,17 +27,21 @@ section {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
+    
     margin-bottom: 20px;
 
 }
 
-.numero {
+#numero {
     color: #FFFFFF;
     background: #402ba9;
     border-radius: 5px;
 
     padding: 4px;
+}
+
+.read {
+    text-decoration: none;
 }
 
 .cards {
